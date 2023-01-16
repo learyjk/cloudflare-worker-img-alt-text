@@ -1,0 +1,5 @@
+name = "wb-describe-single-image"
+main = "src/index.ts"
+compatibility_date = "2023-01-15"
+account_id = "56c37666906f2f0ddd15eee25084acee"
+workers_dev = true
